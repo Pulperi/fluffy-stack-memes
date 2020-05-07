@@ -1,0 +1,24 @@
+.App {
+    text-align: center;
+  }
+  
+  .App-flag {
+    height: 20vmin;
+    pointer-events: none;
+  }
+  
+  /* @media (prefers-reduced-motion: no-preference) {
+    .App-flag {
+      animation: App-flag-spin infinite 1s linear;
+    }
+  }
+
+  @keyframes App-flag-spin {
+    from {
+      transform: rotate(0deg);
+    }
+    to {
+      transform: rotate(360deg);
+    }
+  }
+   */
